@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\Median.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\Median.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\Median.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\Median.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\Median.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\bin\Debug\net6.0\Median.exe
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\bin\Debug\net6.0\Median.deps.json
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\bin\Debug\net6.0\Median.runtimeconfig.json
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\bin\Debug\net6.0\Median.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\bin\Debug\net6.0\Median.pdb
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\Median.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\refint\Median.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\Median.pdb
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\Median.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\Median\obj\Debug\net6.0\ref\Median.dll

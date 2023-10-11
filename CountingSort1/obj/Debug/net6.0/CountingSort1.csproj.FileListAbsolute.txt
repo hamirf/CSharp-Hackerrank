@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\bin\Debug\net6.0\CountingSort1.exe
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\bin\Debug\net6.0\CountingSort1.deps.json
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\bin\Debug\net6.0\CountingSort1.runtimeconfig.json
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\bin\Debug\net6.0\CountingSort1.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\bin\Debug\net6.0\CountingSort1.pdb
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\CountingSort1.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\CountingSort1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\CountingSort1.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\CountingSort1.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\CountingSort1.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\CountingSort1.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\refint\CountingSort1.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\CountingSort1.pdb
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\CountingSort1.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\CountingSort1\obj\Debug\net6.0\ref\CountingSort1.dll

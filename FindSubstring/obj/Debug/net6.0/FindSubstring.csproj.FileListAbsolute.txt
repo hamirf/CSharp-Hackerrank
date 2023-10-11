@@ -1,0 +1,15 @@
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\bin\Debug\net6.0\FindSubstring.exe
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\bin\Debug\net6.0\FindSubstring.deps.json
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\bin\Debug\net6.0\FindSubstring.runtimeconfig.json
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\bin\Debug\net6.0\FindSubstring.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\bin\Debug\net6.0\FindSubstring.pdb
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\FindSubstring.csproj.AssemblyReference.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\FindSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\FindSubstring.AssemblyInfoInputs.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\FindSubstring.AssemblyInfo.cs
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\FindSubstring.csproj.CoreCompileInputs.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\FindSubstring.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\refint\FindSubstring.dll
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\FindSubstring.pdb
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\FindSubstring.genruntimeconfig.cache
+C:\Users\Formulatrix\Documents\Intern\Coba Hackerrank\FindSubstring\obj\Debug\net6.0\ref\FindSubstring.dll
