@@ -16,7 +16,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "Diago
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort1", "CountingSort1\CountingSort1.csproj", "{0D9B2AFF-4FF5-4359-908B-BC35C188D63C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mokc2", "Mokc2\Mokc2.csproj", "{2475C8A0-2215-44BF-8DE6-F47AE7C95C84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{2475C8A0-2215-44BF-8DE6-F47AE7C95C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mock2", "Mock2\Mock2.csproj", "{12EFB230-F041-4F33-8C57-73290DA14D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbingTheLeaderboard", "ClimbingTheLeaderboard\ClimbingTheLeaderboard.csproj", "{05DA6594-4ED4-4449-8D72-39C79FB0BEBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,5 +64,13 @@ Global
 		{2475C8A0-2215-44BF-8DE6-F47AE7C95C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2475C8A0-2215-44BF-8DE6-F47AE7C95C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2475C8A0-2215-44BF-8DE6-F47AE7C95C84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12EFB230-F041-4F33-8C57-73290DA14D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EFB230-F041-4F33-8C57-73290DA14D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EFB230-F041-4F33-8C57-73290DA14D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EFB230-F041-4F33-8C57-73290DA14D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DA6594-4ED4-4449-8D72-39C79FB0BEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DA6594-4ED4-4449-8D72-39C79FB0BEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DA6594-4ED4-4449-8D72-39C79FB0BEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DA6594-4ED4-4449-8D72-39C79FB0BEBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
