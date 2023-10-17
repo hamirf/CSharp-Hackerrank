@@ -8,10 +8,10 @@
         Console.WriteLine( "Median2: " + median2 );
     }
 
-    private static int FindMedian(List<int> arr)
+    public static int FindMedian(List<int> arr)
     {
         arr.Sort();
-        int median = 0;
+        int median;
         
         int dataCount = arr.Count;
         if ( dataCount % 2 != 0 )
